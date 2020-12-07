@@ -11,7 +11,9 @@ function App() {
       </div>
       {/* body */}
       <div className="app_body">
+        <div className="app__container">
 
+        </div>
       </div>
     </div>
   );
